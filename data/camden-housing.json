@@ -1,0 +1,3259 @@
+[
+  {
+    "id": "689f09a7-986f-4af4-9f8c-199cdb91130d",
+    "applicationId": "camden-2025-2838-P",
+    "descriptionHash": "9edc12c5dd2a495367910a447e1907d29bb94a349f42b050078f4a035e3aa4d1",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003587,
+    "estimatedCostUsd": 0.000303,
+    "createdAt": "2026-10-29T03:27:24.337Z",
+    "error": null
+  },
+  {
+    "id": "9b98a7dd-d7e8-4b4d-a5c9-e903683a433f",
+    "applicationId": "camden-2025-3394-P",
+    "descriptionHash": "dd96de3e256150c33616a7c470e0c167970a30d98ea10bec0149412d20c44a9b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "conversion of the property into 3no. self-contained residential units",
+        "value": 3,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003791,
+    "estimatedCostUsd": 0.000386,
+    "createdAt": "2026-10-29T03:27:27.251Z",
+    "error": null
+  },
+  {
+    "id": "b3d6f741-dacc-4caf-b9de-0fbc77aacd9a",
+    "applicationId": "camden-2025-3444-P",
+    "descriptionHash": "c6d7b24b9168128ed0cb053dd69a3d6d3efa1be41150cbf2fbf5dd5c25b6f990",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003614,
+    "estimatedCostUsd": 0.00031,
+    "createdAt": "2026-10-29T03:27:30.763Z",
+    "error": null
+  },
+  {
+    "id": "a9760b64-b125-4cec-9d9a-ae7b2e575039",
+    "applicationId": "camden-2025-4309-P",
+    "descriptionHash": "de057362d0cb1d6b6783c873ef5a106a93da1c6b1ff7818b885c97c0e29ceeb5",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003768,
+    "estimatedCostUsd": 0.000336,
+    "createdAt": "2026-10-29T03:27:03.678Z",
+    "error": null
+  },
+  {
+    "id": "b27985e1-b9fa-4159-acdd-04bae51922d6",
+    "applicationId": "camden-2025-5040-P",
+    "descriptionHash": "cfa5c46b38cce406a75ef967043457c5ac07748c1d02baa6726cd6faa67d85b3",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003633,
+    "estimatedCostUsd": 0.000309,
+    "createdAt": "2026-10-29T03:27:29.648Z",
+    "error": null
+  },
+  {
+    "id": "b8075d4e-c9b3-4076-86d2-189b663865eb",
+    "applicationId": "camden-2025-5167-P",
+    "descriptionHash": "21da3724976537e2cc111e60b40fcf405ed76b049d585d9d0ba80dcdc04ed06e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003638,
+    "estimatedCostUsd": 0.000318,
+    "createdAt": "2026-10-29T03:31:11.424Z",
+    "error": null
+  },
+  {
+    "id": "540504d3-83ed-4dec-9196-9c4a6e7bd4b0",
+    "applicationId": "camden-2025-5251-P",
+    "descriptionHash": "2781e90ac713aeea7cac60cb251829570ea9e04045e1b25545f71d975f25ec0b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00359,
+    "estimatedCostUsd": 0.000303,
+    "createdAt": "2026-10-29T03:27:29.844Z",
+    "error": null
+  },
+  {
+    "id": "8a496f0a-8ad3-4f24-8612-4e189f4010bc",
+    "applicationId": "camden-2025-5263-P",
+    "descriptionHash": "3f1d0b207a0022d4b8d95882d952809d6156e04e7b3e446cc2e40faa545817a7",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.0036,
+    "estimatedCostUsd": 0.000308,
+    "createdAt": "2026-10-29T03:27:24.153Z",
+    "error": null
+  },
+  {
+    "id": "49345472-e831-432d-92a3-9d91375a9733",
+    "applicationId": "camden-2025-5336-P",
+    "descriptionHash": "a06558d499c1bebd5171a36fd5daa088b899284f1f8c02d7815c9064ded70502",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00361,
+    "estimatedCostUsd": 0.000306,
+    "createdAt": "2026-10-29T03:27:30.351Z",
+    "error": null
+  },
+  {
+    "id": "4be02b1a-683b-49ce-a1f3-b2dbfcc127ec",
+    "applicationId": "camden-2025-5342-P",
+    "descriptionHash": "68618b29225315b7d8a1c56f0cb10e641ace733181b61a09b11d7f4f01584d0c",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003632,
+    "estimatedCostUsd": 0.000312,
+    "createdAt": "2026-10-29T03:27:30.578Z",
+    "error": null
+  },
+  {
+    "id": "4d5a211e-ddcd-41c5-86d0-a60d22774417",
+    "applicationId": "camden-2025-5396-P",
+    "descriptionHash": "1866ddd8f9d3218cc38422717ac01ab72c4af125914aa65cdc6861ce339ea016",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003592,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:27:28.178Z",
+    "error": null
+  },
+  {
+    "id": "a3e2ef6d-429d-40dd-a4fc-dd5d97007aca",
+    "applicationId": "camden-2025-5424-P",
+    "descriptionHash": "58dbb0486a5273da15d471faef0702397cca166b4c91e9bc7b8d654e7b1d0c31",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003662,
+    "estimatedCostUsd": 0.000316,
+    "createdAt": "2026-10-29T03:27:29.144Z",
+    "error": null
+  },
+  {
+    "id": "67db58e1-cb65-476a-bc55-7f5d116855f2",
+    "applicationId": "camden-2025-5450-P",
+    "descriptionHash": "99167e5e51af4b26465ff71947ad39bd11ab4c668bf10ca92d041952817614e7",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003644,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:27:29.884Z",
+    "error": null
+  },
+  {
+    "id": "c540a8c6-deee-49a8-a44d-038d785aede2",
+    "applicationId": "camden-2025-5572-P",
+    "descriptionHash": "21951538f544b904cc7dc1b069e86790bc5e8a4e1fdb918d1d2881bcd25dfc71",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003614,
+    "estimatedCostUsd": 0.000309,
+    "createdAt": "2026-10-29T03:27:25.514Z",
+    "error": null
+  },
+  {
+    "id": "1c9522d4-a20b-46f8-b59d-e089ad6816bc",
+    "applicationId": "camden-2025-5573-P",
+    "descriptionHash": "ed542e9ff68729578c4c8c27d0587a0cad7430cc22f5744cf8c4632b269be7ca",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003639,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:27:25.577Z",
+    "error": null
+  },
+  {
+    "id": "e0140503-1ee5-408f-b72f-6de14fc000c5",
+    "applicationId": "camden-2025-5594-P",
+    "descriptionHash": "c359d4b65fc25b3c2108f6aff5612dc7460ced36aba8145204fd03023fb7756f",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003586,
+    "estimatedCostUsd": 0.000302,
+    "createdAt": "2026-10-29T03:27:25.984Z",
+    "error": null
+  },
+  {
+    "id": "64927e41-23a9-4e0e-a902-f56bfcbfe5d0",
+    "applicationId": "camden-2025-5597-P",
+    "descriptionHash": "6f2d7b68db53c7abe9f54716fc63dcac383550ba8e18db13f92a5d70c5ce6dfb",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "conversion of 1 x dwellinghouse into 2 x residential flats on the upper floors",
+        "value": 2,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003702,
+    "estimatedCostUsd": 0.000374,
+    "createdAt": "2026-10-29T03:27:22.245Z",
+    "error": null
+  },
+  {
+    "id": "5c4c7480-fd49-4553-ab12-5b931361e20e",
+    "applicationId": "camden-2025-5601-P",
+    "descriptionHash": "b96387ab3ba023ea3f9fa850843a11af6a118905fa85fe541542b8968a58ef20",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003657,
+    "estimatedCostUsd": 0.000315,
+    "createdAt": "2026-10-29T03:27:27.607Z",
+    "error": null
+  },
+  {
+    "id": "01c31e68-3e64-404f-94f7-d249de5c5186",
+    "applicationId": "camden-2025-5615-P",
+    "descriptionHash": "7a5d6e0436f2d680e280b2a5b9c824027d3e6092ff4222f591f5821160ee8b9b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003636,
+    "estimatedCostUsd": 0.000312,
+    "createdAt": "2026-10-29T03:27:28.059Z",
+    "error": null
+  },
+  {
+    "id": "23ab6716-e927-46ad-806d-3834436e6e93",
+    "applicationId": "camden-2025-5638-P",
+    "descriptionHash": "ff2dc9c1aab6216b3db738e4348f34d6015292d097252f0b229e9edb621fb94d",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003588,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:27:24.722Z",
+    "error": null
+  },
+  {
+    "id": "d12457f1-9094-4d32-9266-099fb8ca1efc",
+    "applicationId": "camden-2025-5723-P",
+    "descriptionHash": "d4cf3f1ebb9786fe558481af4c950a61237ea30c2e2ca590fe4354501980b969",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003648,
+    "estimatedCostUsd": 0.000416,
+    "createdAt": "2026-10-29T03:27:23.087Z",
+    "error": null
+  },
+  {
+    "id": "c05087cb-1459-451b-9c94-841fdffde6e9",
+    "applicationId": "camden-2025-5753-P",
+    "descriptionHash": "2ac3eeeec0687f1c691a6cb5aeea49fae314620ff3708f8fb0adaa7617ec16bc",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "redevelopment to provide a mixed-use scheme comprising four residential units",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003658,
+    "estimatedCostUsd": 0.000356,
+    "createdAt": "2026-10-29T03:27:23.657Z",
+    "error": null
+  },
+  {
+    "id": "091c500f-be7e-4101-a6c9-8ac9ec520c19",
+    "applicationId": "camden-2025-5756-P",
+    "descriptionHash": "c01a375fdee25ac656e16a8d2a18e2701e791d15f1bf333cc186aaf4a61d4367",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003627,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:27:26.379Z",
+    "error": null
+  },
+  {
+    "id": "4d197ff1-f3cb-4d31-93fa-ca91a55c8fa6",
+    "applicationId": "camden-2025-5764-P",
+    "descriptionHash": "cc7bd0e5aa4d92c40653b2ffb98da5d2de6600572ecb87ed7ae7fc2a73e1b2ab",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003649,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:27:24.880Z",
+    "error": null
+  },
+  {
+    "id": "98d34dc6-8bde-47ad-8e09-923e1628d137",
+    "applicationId": "camden-2025-5774-P",
+    "descriptionHash": "019c2b8710ef433e756d02542d8d9dc6eda368fcd992826b59c491703f33337c",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003608,
+    "estimatedCostUsd": 0.000306,
+    "createdAt": "2026-10-29T03:31:10.322Z",
+    "error": null
+  },
+  {
+    "id": "5715e33e-a4fc-4401-9cc4-ae37af86c153",
+    "applicationId": "camden-2025-5812-P",
+    "descriptionHash": "e58e2d34e868c5af4ec9b3f4e29e8c74abeff5a8e2c503d1203e5a89f55bda2c",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide a single residential dwellinghouse (C3)",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.0037,
+    "estimatedCostUsd": 0.000363,
+    "createdAt": "2026-10-29T03:31:10.012Z",
+    "error": null
+  },
+  {
+    "id": "08697ee4-2d21-4022-8124-7b16999ad84c",
+    "applicationId": "camden-2025-5820-P",
+    "descriptionHash": "2b2ec2c4655bd11f39440cb8043aa2230c9153a19ac863da4225aaddd2942e6a",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to create 2x additional 2-bedroom dwellings",
+        "value": 2,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.0036,
+    "estimatedCostUsd": 0.000346,
+    "createdAt": "2026-10-29T03:27:22.071Z",
+    "error": null
+  },
+  {
+    "id": "997822f3-c8c9-4c62-952b-259900432d2f",
+    "applicationId": "camden-2025-5825-P",
+    "descriptionHash": "a97b321dfca2c2ddfc1e3148442b039afffc41b585292ff14f3a1e30d424bef5",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003628,
+    "estimatedCostUsd": 0.000309,
+    "createdAt": "2026-10-29T03:27:26.857Z",
+    "error": null
+  },
+  {
+    "id": "8ca0c568-8e02-42ca-8d37-7f7c5d5d8422",
+    "applicationId": "camden-2026-0083-P",
+    "descriptionHash": "de5866e6aee81fd78424fb21761fbb84833331eafdb4bc0007261529e168f777",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00364,
+    "estimatedCostUsd": 0.000311,
+    "createdAt": "2026-10-29T03:27:21.254Z",
+    "error": null
+  },
+  {
+    "id": "fbca4325-7fb5-4cb4-a570-773977561db8",
+    "applicationId": "camden-2026-0168-P",
+    "descriptionHash": "e9f9a2793b1c6d0ed3c0a00c8ce15d204579050a39b59ffa67e62d6cf73b5734",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "erection of 4 x dwellings",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003586,
+    "estimatedCostUsd": 0.000338,
+    "createdAt": "2026-10-29T03:27:22.455Z",
+    "error": null
+  },
+  {
+    "id": "83ddf3da-ec0e-48aa-98c1-c6fe44a7b289",
+    "applicationId": "camden-2026-0187-P",
+    "descriptionHash": "5785e028dfa577071fd4bc3d9aa6c4339c8baffae5ff85487129100972b18a64",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003653,
+    "estimatedCostUsd": 0.000352,
+    "createdAt": "2026-10-29T03:27:18.082Z",
+    "error": null
+  },
+  {
+    "id": "02a7162c-04f3-4f4d-a193-24987a8b2d56",
+    "applicationId": "camden-2026-0194-P",
+    "descriptionHash": "de03765b4ed27d0d038dc5f52e278f094dc8e3e6a14500eb20c163c2bd4fbf10",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Change of use to a self-contained single family dwelling",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003588,
+    "estimatedCostUsd": 0.000342,
+    "createdAt": "2026-10-29T03:31:09.371Z",
+    "error": null
+  },
+  {
+    "id": "d316edc8-3333-4eb3-b0ba-f77aaefd05b5",
+    "applicationId": "camden-2026-0202-P",
+    "descriptionHash": "ae532e18787884451127ff7b5e90c2a0ec9d8a51b96b6bf5dc83edae9083748d",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003696,
+    "estimatedCostUsd": 0.000327,
+    "createdAt": "2026-10-29T03:27:21.517Z",
+    "error": null
+  },
+  {
+    "id": "76f2c494-7607-4dc4-af4d-fa1efb7ff45f",
+    "applicationId": "camden-2026-0219-P",
+    "descriptionHash": "3c8ccb45fcf55697dce3ff98b89cc5446d8efcc98b8c445fe35e6605c42c4cc1",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003609,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:27:19.433Z",
+    "error": null
+  },
+  {
+    "id": "886ae610-c87e-4cd9-8106-2869cdac043e",
+    "applicationId": "camden-2026-0243-P",
+    "descriptionHash": "320a7a5f91a92257a7b4eb0426e08e753cc61dc658584e3a1be45dd356406e79",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "erecting a part six, part four and part three storey building to provide 13 homes (Class C3)",
+        "value": 13,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003657,
+    "estimatedCostUsd": 0.000379,
+    "createdAt": "2026-10-29T03:27:12.938Z",
+    "error": null
+  },
+  {
+    "id": "b241259e-1161-4f82-bbdd-ca83eb5501d8",
+    "applicationId": "camden-2026-0258-P",
+    "descriptionHash": "457a65e1c1d8f8b47f99d0ea5e0c174ee02260e55148eb46b77fea76bf6cf0de",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Conversion of single dwelling house into 3 flats",
+        "value": 3,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003612,
+    "estimatedCostUsd": 0.000343,
+    "createdAt": "2026-10-29T03:27:18.590Z",
+    "error": null
+  },
+  {
+    "id": "acf373bb-c034-4746-a77e-66b0ae62e8d7",
+    "applicationId": "camden-2026-0277-P",
+    "descriptionHash": "915f7ea1ea98b65535bd6d237ceae6aac797410dc40b9bf3d115387b2eafeffd",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003619,
+    "estimatedCostUsd": 0.000307,
+    "createdAt": "2026-10-29T03:27:19.451Z",
+    "error": null
+  },
+  {
+    "id": "0c8ca9aa-b017-4e3b-bd60-2e2432add68a",
+    "applicationId": "camden-2026-0325-P",
+    "descriptionHash": "7b4dba4281a4463af87ab9b2e3ad2f1b9eba03c8ca52761d146ee5cca6438356",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003672,
+    "estimatedCostUsd": 0.000318,
+    "createdAt": "2026-10-29T03:27:20.160Z",
+    "error": null
+  },
+  {
+    "id": "f6da8868-7ba0-4461-bb26-cb915a9722ef",
+    "applicationId": "camden-2026-0327-P",
+    "descriptionHash": "d761a15bda7d488876fb54666ab761cf2582743735a2686764b5fce75357543b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003609,
+    "estimatedCostUsd": 0.000308,
+    "createdAt": "2026-10-29T03:27:20.341Z",
+    "error": null
+  },
+  {
+    "id": "43ff55c6-2634-4b3d-8d0b-bace1d43c8f1",
+    "applicationId": "camden-2026-0335-P",
+    "descriptionHash": "f413b73eb0856e52b689319f939b654d2b7cc6ae14ef9d63d6a18f87d37f9d95",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003635,
+    "estimatedCostUsd": 0.000322,
+    "createdAt": "2026-10-29T03:27:18.988Z",
+    "error": null
+  },
+  {
+    "id": "7d8432d0-00c2-4e4c-b9c8-a6ed84606bb9",
+    "applicationId": "camden-2026-0408-P",
+    "descriptionHash": "89d3c0e4238ebb54c7e34822bb5210dd62f224e3bb986f9d535382ae5c781b9b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003579,
+    "estimatedCostUsd": 0.000302,
+    "createdAt": "2026-10-29T03:27:18.597Z",
+    "error": null
+  },
+  {
+    "id": "2e2f43ef-3284-4982-9955-1aa89f7d37fa",
+    "applicationId": "camden-2026-0454-P",
+    "descriptionHash": "b15e991d3bc2de2f0dffee1eb4b01bd55eb9210510480648ae8f100aee2512bd",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "create 1 x residential unit",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003588,
+    "estimatedCostUsd": 0.000335,
+    "createdAt": "2026-10-29T03:27:17.622Z",
+    "error": null
+  },
+  {
+    "id": "5a55505c-95fe-40a2-90b9-29639a53abbc",
+    "applicationId": "camden-2026-0458-P",
+    "descriptionHash": "fbf85819f939fcf824b3aebcf6d37c76a42330f8c952e28c71eb240404029077",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003794,
+    "estimatedCostUsd": 0.000355,
+    "createdAt": "2026-10-29T03:27:14.959Z",
+    "error": null
+  },
+  {
+    "id": "7854a4f1-cc9a-4567-a998-d804f7a63b2c",
+    "applicationId": "camden-2026-0503-P",
+    "descriptionHash": "d9d6ab3aa9f34d9ebdbfb7234290161d0d04b349e1f76a530572f596cf9cb639",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Deconversion of the existing HMO property into a four-bedroom single dwellinghouse",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003794,
+    "estimatedCostUsd": 0.000391,
+    "createdAt": "2026-10-29T03:31:09.005Z",
+    "error": null
+  },
+  {
+    "id": "97163872-a880-4cd3-9efc-d35a0ad10465",
+    "applicationId": "camden-2026-0527-P",
+    "descriptionHash": "b3000f0ac9ecb56b0b13ce0338f1807f0a851461a7403ef49a4543e18dcd3ec7",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00359,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:27:17.742Z",
+    "error": null
+  },
+  {
+    "id": "100aea04-ae99-4e67-b342-2fae8c66b51d",
+    "applicationId": "camden-2026-0585-P",
+    "descriptionHash": "92e8255d24feb78852eb23355fdf49c829c6a35b2f73de9f91775b0ffc726f11",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00359,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:27:16.845Z",
+    "error": null
+  },
+  {
+    "id": "35c478fb-36a7-43ca-9b79-2076ba5722df",
+    "applicationId": "camden-2026-0593-P",
+    "descriptionHash": "55800c260bf8f30f496423d3d9d71aa0e57cfb46312e70c667dc0402dbb3949e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003605,
+    "estimatedCostUsd": 0.000306,
+    "createdAt": "2026-10-29T03:27:17.297Z",
+    "error": null
+  },
+  {
+    "id": "b7a01235-0247-4f16-9ab3-bd9e45907968",
+    "applicationId": "camden-2026-0631-P",
+    "descriptionHash": "2ae675f767f30e70a41fbf41871c39c1d617f35a68f70718c57495a09fdf04b5",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003602,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:27:15.967Z",
+    "error": null
+  },
+  {
+    "id": "7b975170-4bd5-4a08-bd35-9b238304b642",
+    "applicationId": "camden-2026-0633-P",
+    "descriptionHash": "ecdf2f1c2067ac4b4500eb2133de2b715876a854341d16e8edf47da719e71cfe",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "the erection of; two new semi-detached dwellings",
+        "value": 2,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003644,
+    "estimatedCostUsd": 0.000355,
+    "createdAt": "2026-10-29T03:31:09.107Z",
+    "error": null
+  },
+  {
+    "id": "a8906ad6-ffeb-4c29-96a6-0b3954cff64c",
+    "applicationId": "camden-2026-0636-P",
+    "descriptionHash": "4d0792085d8e2fd57bfc5f4fa8a7154325d3b390cfc3fb42a4bd255583cb7e45",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003697,
+    "estimatedCostUsd": 0.000324,
+    "createdAt": "2026-10-29T03:27:15.619Z",
+    "error": null
+  },
+  {
+    "id": "822aff82-fd30-4d15-b7d3-87bac9b73738",
+    "applicationId": "camden-2026-0689-P",
+    "descriptionHash": "c0dca9f7526f1f9c64a76c5f8659a3b5ce757c338eb06f88c2f58a4b7c30940b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "change of use from pub (Sui Generis) to four residential units (class C3)",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003644,
+    "estimatedCostUsd": 0.00037,
+    "createdAt": "2026-10-29T03:26:48.799Z",
+    "error": null
+  },
+  {
+    "id": "1b5371d4-6389-4451-be18-add8f5873bf8",
+    "applicationId": "camden-2026-0696-P",
+    "descriptionHash": "f110b015dc2d51e2133a33be2f2d2c7bea1bfd66a4d34ec5fdeb199dd5affe05",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003596,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:27:16.455Z",
+    "error": null
+  },
+  {
+    "id": "ab1fe645-232b-4fea-b6b3-c005f5d8016c",
+    "applicationId": "camden-2026-0697-P",
+    "descriptionHash": "5ba52aabdff2eb50ab2163fac2a0e7025405249fada1aff38262139c794626ff",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003658,
+    "estimatedCostUsd": 0.000318,
+    "createdAt": "2026-10-29T03:27:14.137Z",
+    "error": null
+  },
+  {
+    "id": "1fbad361-38a8-4c2a-9a94-0cc58955f4a4",
+    "applicationId": "camden-2026-0700-P",
+    "descriptionHash": "645e9514a9d91c78b6fc99a3ce56321661561818b7d83fe51b4aaa620cb15b40",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003635,
+    "estimatedCostUsd": 0.000316,
+    "createdAt": "2026-10-29T03:27:15.774Z",
+    "error": null
+  },
+  {
+    "id": "02e43e2b-39ad-45e0-85ac-6093b8271042",
+    "applicationId": "camden-2026-0782-P",
+    "descriptionHash": "78af1e74b081e62b9c2ec20b4e6bd94a5c9d54d5aa55bb8b94556b8addae4e23",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003655,
+    "estimatedCostUsd": 0.000315,
+    "createdAt": "2026-10-29T03:27:08.524Z",
+    "error": null
+  },
+  {
+    "id": "f8f17e8e-af83-4118-8b71-5270bdfb8c54",
+    "applicationId": "camden-2026-0783-P",
+    "descriptionHash": "039ed16670680ce1bdbf09bdb395fc2dfc077ea62054d077ce36e69794bb3d4f",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "4 x self-contained residential flats",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003684,
+    "estimatedCostUsd": 0.000356,
+    "createdAt": "2026-10-29T03:27:14.748Z",
+    "error": null
+  },
+  {
+    "id": "87547114-eb07-4945-b191-9bff33a2c464",
+    "applicationId": "camden-2026-0963-P",
+    "descriptionHash": "8ae95daa500547164c8ee2b2af13f4be0a6b31af634dc682a1961b1318b5a453",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003642,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:27:14.074Z",
+    "error": null
+  },
+  {
+    "id": "d0311205-1441-42db-87cd-510702e129cf",
+    "applicationId": "camden-2026-0990-P",
+    "descriptionHash": "f2e47f08824b42da73efa1598b3cf0e7c2c104b6b1dace3dadd9fe69325d1808",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "and 1 x residential unit on the third and fourth floors (Class C3)",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00375,
+    "estimatedCostUsd": 0.000387,
+    "createdAt": "2026-10-29T03:27:12.205Z",
+    "error": null
+  },
+  {
+    "id": "74662af6-3cda-4102-8850-41788f119c2e",
+    "applicationId": "camden-2026-1117-P",
+    "descriptionHash": "0f9ae847e0a0b13cbf502fe61c8467364898750645b33c1e4f779ead6f19087e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003595,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:27:12.877Z",
+    "error": null
+  },
+  {
+    "id": "15a953b5-75ed-4247-8949-e2485f92a385",
+    "applicationId": "camden-2026-1142-P",
+    "descriptionHash": "272137264817e27abf1d661b0560c2f8e3db5319453f4ab4850aab79377a80b4",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003596,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:27:13.938Z",
+    "error": null
+  },
+  {
+    "id": "f34a5b15-e3d3-416f-94d6-81baf1901c26",
+    "applicationId": "camden-2026-1146-P",
+    "descriptionHash": "538713002b85b28c9cb21c4ad118f328c298efbfdca6e6eadcfdd8f3f3261d4e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Conversion of building to 6 x flats",
+        "value": 6,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003697,
+    "estimatedCostUsd": 0.000358,
+    "createdAt": "2026-10-29T03:27:11.971Z",
+    "error": null
+  },
+  {
+    "id": "ef6f7259-353a-4e54-8b00-e7b75cafb6a4",
+    "applicationId": "camden-2026-1205-P",
+    "descriptionHash": "03edcc1b6c58343321b58f5cadc094c13383e1c4e119a707266b2a618730af3e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003691,
+    "estimatedCostUsd": 0.000322,
+    "createdAt": "2026-10-29T03:27:10.436Z",
+    "error": null
+  },
+  {
+    "id": "e5615661-e021-45a6-9a2e-48f9c1ab4a40",
+    "applicationId": "camden-2026-1209-P",
+    "descriptionHash": "5bb6500e3a23ecac353b08825d49795f8ebd46aa3823aeecf700c89a872c1d5d",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003602,
+    "estimatedCostUsd": 0.000306,
+    "createdAt": "2026-10-29T03:27:11.269Z",
+    "error": null
+  },
+  {
+    "id": "e9b783fe-33ab-4c66-8e33-4a311161b697",
+    "applicationId": "camden-2026-1216-P",
+    "descriptionHash": "c3617c0ac215e88697c0c0af4095fd71cf4bc2605aec8ebab7180b4723580aac",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003605,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:27:02.234Z",
+    "error": null
+  },
+  {
+    "id": "0f8385cc-8ccf-4f35-bd6b-f0a38c08609a",
+    "applicationId": "camden-2026-1217-P",
+    "descriptionHash": "f76362501873cceabd771206b216ccc5d93d1bece34e5e0e0d71e7deb4ed93e0",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003614,
+    "estimatedCostUsd": 0.000307,
+    "createdAt": "2026-10-29T03:27:08.278Z",
+    "error": null
+  },
+  {
+    "id": "b211e195-9d91-4ffa-a239-86134c686218",
+    "applicationId": "camden-2026-1223-P",
+    "descriptionHash": "0ddd61dda6a9998d0162b5119098802561e41e71361b983fd06c41e61eccbe98",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003602,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:26:59.128Z",
+    "error": null
+  },
+  {
+    "id": "ac9f2665-ef24-4b96-b99c-69370f984a23",
+    "applicationId": "camden-2026-1225-P",
+    "descriptionHash": "2e83f7db9807a2d019518e67654107c3df1565284081014e1db1cd16830b782c",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003591,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:26:56.335Z",
+    "error": null
+  },
+  {
+    "id": "0f3dc942-a849-423a-a906-b6b7e691b573",
+    "applicationId": "camden-2026-1249-P",
+    "descriptionHash": "6c2a531ea070b06dc4a157c67c88bfd16ec38c24899e184cf3642016da856dda",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "into 1 x 2 bedroom flat",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00359,
+    "estimatedCostUsd": 0.00034,
+    "createdAt": "2026-10-29T03:27:12.047Z",
+    "error": null
+  },
+  {
+    "id": "9db26af9-cc1f-4e59-ba97-47973ee157d1",
+    "applicationId": "camden-2026-1252-P",
+    "descriptionHash": "f3fd7a5ee94113ad835fceb22a8059c113b23cbe99658dde6b26314cd6e9c415",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003668,
+    "estimatedCostUsd": 0.000318,
+    "createdAt": "2026-10-29T03:27:11.313Z",
+    "error": null
+  },
+  {
+    "id": "0230a8d6-76ff-4516-8a78-2626ad1eb9b3",
+    "applicationId": "camden-2026-1311-P",
+    "descriptionHash": "b4562828ce618431d2054d6597ba2c9bc71f2ff2181de67e2613bf4cbfddddf7",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003703,
+    "estimatedCostUsd": 0.000324,
+    "createdAt": "2026-10-29T03:27:09.510Z",
+    "error": null
+  },
+  {
+    "id": "29e77353-37c0-4468-9e0d-6af3a62136fc",
+    "applicationId": "camden-2026-1342-P",
+    "descriptionHash": "261eee5c6d778bcfaa392dc228dbe9d77c2f3e7fa87d08190adb962b84d0a390",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "change of use of house into three flats",
+        "value": 3,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003598,
+    "estimatedCostUsd": 0.000341,
+    "createdAt": "2026-10-29T03:27:10.941Z",
+    "error": null
+  },
+  {
+    "id": "4c64cefb-f382-4804-9345-1ac6c3a6076b",
+    "applicationId": "camden-2026-1346-P",
+    "descriptionHash": "8adc69cb702dd7fe93e26b94b5449a73b23e65cc35256fc39ce0c022f37722d1",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003619,
+    "estimatedCostUsd": 0.000309,
+    "createdAt": "2026-10-29T03:27:09.961Z",
+    "error": null
+  },
+  {
+    "id": "7fdd960e-ae5e-4301-b3fb-ac19e1eaed25",
+    "applicationId": "camden-2026-1467-P",
+    "descriptionHash": "64d1b90053031d884e89d4ff0bc8ef5373f0a36267b8008d739dac94c7df2d62",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003665,
+    "estimatedCostUsd": 0.000325,
+    "createdAt": "2026-10-29T03:27:09.015Z",
+    "error": null
+  },
+  {
+    "id": "ca0141ed-9e27-4215-8dda-9943d583dd60",
+    "applicationId": "camden-2026-1493-P",
+    "descriptionHash": "b1be49b662b91e6a05b880c302339f141e4a47e6e8ef4a9c432b58a29142f4c8",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003658,
+    "estimatedCostUsd": 0.000315,
+    "createdAt": "2026-10-29T03:27:03.116Z",
+    "error": null
+  },
+  {
+    "id": "63555feb-9ee4-4cff-8f07-8f685210e464",
+    "applicationId": "camden-2026-1516-P",
+    "descriptionHash": "e12134539a954704ed18efbf4ea552a1eab19114db0389bb5c5bd0ec988d2041",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "two self-contained residential flats",
+        "value": 2,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003604,
+    "estimatedCostUsd": 0.000337,
+    "createdAt": "2026-10-29T03:27:04.520Z",
+    "error": null
+  },
+  {
+    "id": "d4cdcc37-3131-4e88-a580-b28606325de8",
+    "applicationId": "camden-2026-1601-P",
+    "descriptionHash": "22f76a136943123e030a5b0829241cdfcc2f8d6367da23fbf183bc31a4780d11",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00364,
+    "estimatedCostUsd": 0.000312,
+    "createdAt": "2026-10-29T03:27:05.696Z",
+    "error": null
+  },
+  {
+    "id": "197a7fef-8f2a-40f6-abfb-915e99588017",
+    "applicationId": "camden-2026-1740-P",
+    "descriptionHash": "fd50197f00ad19f56954bdb60f95abb33a561c5a89ee9b9452c5cba2d26b7504",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003598,
+    "estimatedCostUsd": 0.000308,
+    "createdAt": "2026-10-29T03:27:07.392Z",
+    "error": null
+  },
+  {
+    "id": "9b73cbd1-72b8-4edb-8697-bdb82b0f8e09",
+    "applicationId": "camden-2026-1780-P",
+    "descriptionHash": "80b813c7cdef98f471906a9e4badfe6a5d6664c83a1ad47f9dc311baf6d94688",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "provision of 3no. self-contained residential units",
+        "value": 3,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003633,
+    "estimatedCostUsd": 0.000354,
+    "createdAt": "2026-10-29T03:27:08.094Z",
+    "error": null
+  },
+  {
+    "id": "0c72bfa2-4dfa-482a-97f4-227aad3e27eb",
+    "applicationId": "camden-2026-1789-P",
+    "descriptionHash": "51f7dd2e22cb5b72d20d02b1ce22112dd4ae305807607e0fef55546ac8c077c6",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003592,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:27:04.742Z",
+    "error": null
+  },
+  {
+    "id": "6db239a9-9b02-4037-adfb-64d0c0b12e92",
+    "applicationId": "camden-2026-1830-P",
+    "descriptionHash": "94c8f5270d81cc9b39a8f7a176ae8337de746bd9a9e8a3e27b963b4c2a9abd5e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003675,
+    "estimatedCostUsd": 0.000318,
+    "createdAt": "2026-10-29T03:27:07.292Z",
+    "error": null
+  },
+  {
+    "id": "ecb69574-653b-4ced-bd0d-299c05812acc",
+    "applicationId": "camden-2026-1869-P",
+    "descriptionHash": "b23874d5f5452becf44bd23be2c6dcdfa6de8e1c8f289f3ab9c27299bc46364e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003671,
+    "estimatedCostUsd": 0.000318,
+    "createdAt": "2026-10-29T03:27:05.471Z",
+    "error": null
+  },
+  {
+    "id": "f3fc3345-934d-42d3-9ca6-8f13e27c9567",
+    "applicationId": "camden-2026-1872-P",
+    "descriptionHash": "718d44851fbfba4d85ea4d75f260657b4f8580e0129248d73bdb1f849a954fce",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003817,
+    "estimatedCostUsd": 0.000344,
+    "createdAt": "2026-10-29T03:27:06.421Z",
+    "error": null
+  },
+  {
+    "id": "82b59209-10e2-4a17-8048-02c0b7381aad",
+    "applicationId": "camden-2026-1896-P",
+    "descriptionHash": "11e3475b25661957ed8fe3b93cd21303abded1d7f6fd1463443086afce1a3ec3",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003631,
+    "estimatedCostUsd": 0.000309,
+    "createdAt": "2026-10-29T03:27:06.622Z",
+    "error": null
+  },
+  {
+    "id": "7e60e06e-a25a-47ff-a662-593b924fdae0",
+    "applicationId": "camden-2026-1904-P",
+    "descriptionHash": "97c910d45d0559c4551df0a0267d48833d7aca48be3637da75e776af026f8bbc",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "provision of 5no. flats",
+        "value": 5,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003724,
+    "estimatedCostUsd": 0.000366,
+    "createdAt": "2026-10-29T03:27:07.142Z",
+    "error": null
+  },
+  {
+    "id": "8882bf97-575d-4e2b-afa2-2494a732b426",
+    "applicationId": "camden-2026-1908-P",
+    "descriptionHash": "21039cbf59954bace9c429c548ef12a10a946d6c10ea8a4d79ae423b4483ebc8",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003644,
+    "estimatedCostUsd": 0.000315,
+    "createdAt": "2026-10-29T03:27:05.785Z",
+    "error": null
+  },
+  {
+    "id": "6b161f53-21fd-42e1-b8ff-372a14c8473e",
+    "applicationId": "camden-2026-1915-P",
+    "descriptionHash": "1c8d373ed42415b5a65fa3bb58552b28db29bdc824af1183c8a119a31a62b078",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003607,
+    "estimatedCostUsd": 0.000309,
+    "createdAt": "2026-10-29T03:27:02.396Z",
+    "error": null
+  },
+  {
+    "id": "0df90ea6-75c0-4954-ad73-00c38ae07d08",
+    "applicationId": "camden-2026-2010-P",
+    "descriptionHash": "f4a6d64eec52d91a40b8e1606711d63e6fbc5b5f640eec1f047823e9462f6a6f",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003695,
+    "estimatedCostUsd": 0.000324,
+    "createdAt": "2026-10-29T03:31:07.155Z",
+    "error": null
+  },
+  {
+    "id": "6209a66b-15fc-4ce0-9379-44871c3b222f",
+    "applicationId": "camden-2026-2019-P",
+    "descriptionHash": "228bd5b00a026c26859d64f1d5ee68ce0aa06d4c2f1e6f1e69c9a1b3ae5b4175",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003585,
+    "estimatedCostUsd": 0.000303,
+    "createdAt": "2026-10-29T03:27:06.318Z",
+    "error": null
+  },
+  {
+    "id": "78418e10-3ebc-4800-90f5-2abb43eaf035",
+    "applicationId": "camden-2026-2052-P",
+    "descriptionHash": "bb4b4b3e0456987d8bc3681383fcb71b867bacb6cba7bfc5fc40626936ce47d0",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003601,
+    "estimatedCostUsd": 0.000306,
+    "createdAt": "2026-10-29T03:26:57.064Z",
+    "error": null
+  },
+  {
+    "id": "b5855992-36fd-4f8e-a241-a2211bed120c",
+    "applicationId": "camden-2026-2055-P",
+    "descriptionHash": "b5cc6afe81d17a7f91c50021d815180751e7874fe270edbdb816d959e32225f4",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003678,
+    "estimatedCostUsd": 0.000317,
+    "createdAt": "2026-10-29T03:27:03.847Z",
+    "error": null
+  },
+  {
+    "id": "72e6294e-c0a7-4dc4-828c-163a88aaaf55",
+    "applicationId": "camden-2026-2123-P",
+    "descriptionHash": "2bcdc15b97c4d86983076ba0597204beb3c75e642c7e4f212c9cf91f3f5da49b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003757,
+    "estimatedCostUsd": 0.000334,
+    "createdAt": "2026-10-29T03:27:04.048Z",
+    "error": null
+  },
+  {
+    "id": "b0ba5d2d-612b-4c94-8bfb-954118fcea6c",
+    "applicationId": "camden-2026-2199-P",
+    "descriptionHash": "274c5dd6e402592b8ea68d83f022ddb34f078c1bcc98394c25847ab451aa707b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00396,
+    "estimatedCostUsd": 0.000375,
+    "createdAt": "2026-10-29T03:27:02.098Z",
+    "error": null
+  },
+  {
+    "id": "e53a6134-0568-4689-adfd-c4cb48a62bc4",
+    "applicationId": "camden-2026-2208-P",
+    "descriptionHash": "209f36aa35364f0e23767ceeb6c8464131ea826b4a9141350843cd445f87dd61",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003601,
+    "estimatedCostUsd": 0.000307,
+    "createdAt": "2026-10-29T03:27:03.189Z",
+    "error": null
+  },
+  {
+    "id": "0bbecce9-927e-4b1f-9ffc-51681b115c5e",
+    "applicationId": "camden-2026-2253-P",
+    "descriptionHash": "39f7801e41420613bb1f79b55dac0b2b280d160510724a3f11fcde711860cc21",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "delivering 13 x residential units",
+        "value": 13,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003702,
+    "estimatedCostUsd": 0.000359,
+    "createdAt": "2026-10-29T03:27:01.306Z",
+    "error": null
+  },
+  {
+    "id": "447dd8f6-ac5e-49be-9713-59fc61094c8c",
+    "applicationId": "camden-2026-2274-P",
+    "descriptionHash": "0b87ac8ed47d2efe9f7347d49348315b30d978dd0caad3d950df1793e5639522",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00359,
+    "estimatedCostUsd": 0.000302,
+    "createdAt": "2026-10-29T03:27:00.475Z",
+    "error": null
+  },
+  {
+    "id": "9a551ed7-f50d-4965-acca-22cc640f1de7",
+    "applicationId": "camden-2026-2312-P",
+    "descriptionHash": "43a7feb6a0cf2b8fb6618e45a6d2204a5d8bbdf740b21a821abe0d1611a16c6a",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003704,
+    "estimatedCostUsd": 0.000324,
+    "createdAt": "2026-10-29T03:26:58.743Z",
+    "error": null
+  },
+  {
+    "id": "0dc212ff-7b61-4e26-a5e0-94ec8742fff8",
+    "applicationId": "camden-2026-2322-P",
+    "descriptionHash": "bbd2af29b13366fc790c4f4b71e6c8a66ba869d710e6e2ffad9701e926e4159b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00374,
+    "estimatedCostUsd": 0.000332,
+    "createdAt": "2026-10-29T03:27:01.229Z",
+    "error": null
+  },
+  {
+    "id": "61b5c996-525e-4fdf-b947-e9770cdc3eb2",
+    "applicationId": "camden-2026-2351-P",
+    "descriptionHash": "c48ea927f05700cbef04c1fa3ec92aed2136510cc6c14c1d52197898cae79132",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00359,
+    "estimatedCostUsd": 0.000303,
+    "createdAt": "2026-10-29T03:26:57.099Z",
+    "error": null
+  },
+  {
+    "id": "a3fe7d45-6ffd-4270-b43a-333cc4a1b0d8",
+    "applicationId": "camden-2026-2361-P",
+    "descriptionHash": "6c2310e7f5d6b44cd6a1277d886ea04c188ef6a73f80d6a72ce046a0557cfe42",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00367,
+    "estimatedCostUsd": 0.000317,
+    "createdAt": "2026-10-29T03:27:01.291Z",
+    "error": null
+  },
+  {
+    "id": "2d9d2edc-873d-457a-90aa-0438e5a381a4",
+    "applicationId": "camden-2026-2382-P",
+    "descriptionHash": "400b554345e2bff3ac66583c19901d483a1e088bb94ca87003f8dc492b06c543",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003628,
+    "estimatedCostUsd": 0.00031,
+    "createdAt": "2026-10-29T03:27:00.149Z",
+    "error": null
+  },
+  {
+    "id": "2159ba7c-3d05-4561-aa2c-d93975c21262",
+    "applicationId": "camden-2026-2406-P",
+    "descriptionHash": "afe0cae2b92569799297de6606ece391bbbe14fbc87146c476fa949905433a9d",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003666,
+    "estimatedCostUsd": 0.00032,
+    "createdAt": "2026-10-29T03:27:00.555Z",
+    "error": null
+  },
+  {
+    "id": "cb83be2a-a7d7-4be1-ac78-31d9a683c609",
+    "applicationId": "camden-2026-2419-P",
+    "descriptionHash": "a6dea85b823ae7ee295c2417e878c48bccc2db2fcac8b93fe69de0e35bb4e7ce",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003647,
+    "estimatedCostUsd": 0.000316,
+    "createdAt": "2026-10-29T03:26:55.179Z",
+    "error": null
+  },
+  {
+    "id": "ed9b96d6-9bbe-4000-963f-931293222e3e",
+    "applicationId": "camden-2026-2428-P",
+    "descriptionHash": "242d68e5038b10c16cec32559a3b371926d4bdb3783feae55e7216e909506fde",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to form a single dwellinghouse",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003632,
+    "estimatedCostUsd": 0.000345,
+    "createdAt": "2026-10-29T03:31:07.093Z",
+    "error": null
+  },
+  {
+    "id": "0f4d2773-91dc-435e-b4a1-6334f9214a1e",
+    "applicationId": "camden-2026-2471-P",
+    "descriptionHash": "49afe815214db938b42b800f54028c5f481ae4902cb5e05fb3033c0a46c411af",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003587,
+    "estimatedCostUsd": 0.000303,
+    "createdAt": "2026-10-29T03:26:59.726Z",
+    "error": null
+  },
+  {
+    "id": "3f39a285-e19b-451f-951b-abc9c79b8e46",
+    "applicationId": "camden-2026-2515-P",
+    "descriptionHash": "7675c7ef4b506842da2fba18e134668071e80ea6b9df04f993913d731f88975d",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003622,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:26:59.457Z",
+    "error": null
+  },
+  {
+    "id": "eb56b453-6c9f-4bd3-b68c-d51119c96ed0",
+    "applicationId": "camden-2026-2516-P",
+    "descriptionHash": "e857065144d70fd979cb79a3ada77bc5a32e8f223d0d17d86370369447cb97b2",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003744,
+    "estimatedCostUsd": 0.000332,
+    "createdAt": "2026-10-29T03:26:57.228Z",
+    "error": null
+  },
+  {
+    "id": "70bf2e51-0fe5-4350-b41a-54158c3d6528",
+    "applicationId": "camden-2026-2529-P",
+    "descriptionHash": "798ad65283e9946927d5cf64b532744d7edb8a038da39bfa7403509838ff6599",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00359,
+    "estimatedCostUsd": 0.000303,
+    "createdAt": "2026-10-29T03:26:58.754Z",
+    "error": null
+  },
+  {
+    "id": "46369264-482d-402d-844d-924bf4b48d77",
+    "applicationId": "camden-2026-2533-P",
+    "descriptionHash": "d8b16553d38997458ad1d9d84044bb03096f1ade6770dc4651924f66ec57079f",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003632,
+    "estimatedCostUsd": 0.00031,
+    "createdAt": "2026-10-29T03:26:55.426Z",
+    "error": null
+  },
+  {
+    "id": "253514f4-028b-4027-be17-d740152b2a9b",
+    "applicationId": "camden-2026-2539-P",
+    "descriptionHash": "89a87c0ef5547b82627b640a8b6b4a48ef5bbd21cb47096499ecab0748594e7e",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Change of use from office (Class E) to residential (Class C3) to form a single dwelling house",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003684,
+    "estimatedCostUsd": 0.00038,
+    "createdAt": "2026-10-29T03:26:58.002Z",
+    "error": null
+  },
+  {
+    "id": "18bc3d20-ec8d-4598-ad83-fa75950201dd",
+    "applicationId": "camden-2026-2595-P",
+    "descriptionHash": "290c28ecc0fb8750623c272d2e6295bcfdbb42b170729b43d7fda6d321c27523",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003582,
+    "estimatedCostUsd": 0.000302,
+    "createdAt": "2026-10-29T03:26:57.893Z",
+    "error": null
+  },
+  {
+    "id": "1a1164bb-beba-4746-a361-8c507dfecfd5",
+    "applicationId": "camden-2026-2709-P",
+    "descriptionHash": "bb7810ddd0c66f3ed1847021f4034d449bbadf8c2055bb6de03408e77f407ed0",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "erection of a three-bedroom dwellinghouse",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003616,
+    "estimatedCostUsd": 0.000344,
+    "createdAt": "2026-10-29T03:31:05.426Z",
+    "error": null
+  },
+  {
+    "id": "0b0d3b72-acd8-47e3-8984-91c12b0f21c2",
+    "applicationId": "camden-2026-2754-P",
+    "descriptionHash": "3d491fcc7cebc60aecf96609d85724a93f5290f602d2fffbb6337a344183b0ff",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide three self-contained flats (Class C3)",
+        "value": 3,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00365,
+    "estimatedCostUsd": 0.000354,
+    "createdAt": "2026-10-29T03:26:53.077Z",
+    "error": null
+  },
+  {
+    "id": "24e64451-aa83-4934-866a-dead657aada6",
+    "applicationId": "camden-2026-2756-P",
+    "descriptionHash": "6f1e9d164357404908389b0c85b58f1e8b5fc1ed38edbe91eacffd03d2e7a063",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003682,
+    "estimatedCostUsd": 0.000318,
+    "createdAt": "2026-10-29T03:26:51.853Z",
+    "error": null
+  },
+  {
+    "id": "3e11a019-8e93-4664-98a0-63055c99742f",
+    "applicationId": "camden-2026-2836-P",
+    "descriptionHash": "a037623f7e96193dd98e6e1b3705bcc7c55fffc2d289f4c334bfc32c70f576fe",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003637,
+    "estimatedCostUsd": 0.000311,
+    "createdAt": "2026-10-29T03:26:56.000Z",
+    "error": null
+  },
+  {
+    "id": "2eec6cef-3930-46c6-b627-8b4ee7210ad4",
+    "applicationId": "camden-2026-2861-P",
+    "descriptionHash": "8beb94d61290062bc854b7249a347ea4427b856120a0edae8e185c1a403adce4",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003711,
+    "estimatedCostUsd": 0.000324,
+    "createdAt": "2026-10-29T03:26:54.959Z",
+    "error": null
+  },
+  {
+    "id": "dd55acb2-e597-4479-a95f-84e5579ea519",
+    "applicationId": "camden-2026-2888-P",
+    "descriptionHash": "9be4e417f5fb473d6774aa4ffef2d6a7788367bc9a51218bafe4ce32bdf63904",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide four self-contained dwellings",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003634,
+    "estimatedCostUsd": 0.000345,
+    "createdAt": "2026-10-29T03:26:56.119Z",
+    "error": null
+  },
+  {
+    "id": "7e327a29-4326-4f3c-9adc-e54da126d41e",
+    "applicationId": "camden-2026-2919-P",
+    "descriptionHash": "d21a717ba85eaf847236bfe8f642b0891d2a5f881544b1a5912619cd0a9464c2",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide 4 x flats",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003642,
+    "estimatedCostUsd": 0.000346,
+    "createdAt": "2026-10-29T03:26:54.259Z",
+    "error": null
+  },
+  {
+    "id": "fc7ced04-3ee5-4d05-883d-9e41ba0002a2",
+    "applicationId": "camden-2026-3019-P",
+    "descriptionHash": "415d008026e5444cf4b0a09d8bd1e413e3c00b7df303c1192921d3578ca99c1b",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Conversion of building from office use (Class E) to provide three residential flats (Class C3)",
+        "value": 3,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003654,
+    "estimatedCostUsd": 0.00037,
+    "createdAt": "2026-10-29T03:26:52.635Z",
+    "error": null
+  },
+  {
+    "id": "ef908857-114a-4163-b0d5-6ed0151616bf",
+    "applicationId": "camden-2026-3064-P",
+    "descriptionHash": "137a364b72411c88a5fb5f273ae79ad563f76f893e4392ecd88ea71a07be94a4",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003626,
+    "estimatedCostUsd": 0.00031,
+    "createdAt": "2026-10-29T03:26:54.580Z",
+    "error": null
+  },
+  {
+    "id": "4d19a605-2813-4fa1-b3b6-ff8c06111667",
+    "applicationId": "camden-2026-3069-P",
+    "descriptionHash": "d626f7deaf60ffe899eddd6c8ea8d4696174dcefff8f3bdb59ae71b52c79a43a",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003581,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:26:48.195Z",
+    "error": null
+  },
+  {
+    "id": "f41f67a1-83a3-4385-97e2-1ff36698b1df",
+    "applicationId": "camden-2026-3090-P",
+    "descriptionHash": "c274b8d42ed57e4b908634edeb92812f36e24e26f17adcdfed1725b790972507",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003647,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:26:54.159Z",
+    "error": null
+  },
+  {
+    "id": "86ff290b-9304-4ef4-a71b-cb159d01c05e",
+    "applicationId": "camden-2026-3112-P",
+    "descriptionHash": "c68817ee74a06e5a4177aa5b447d80f7aeb5cd2f81b62a1f5e83533905791591",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "provide 2 x residential units",
+        "value": 2,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003667,
+    "estimatedCostUsd": 0.000349,
+    "createdAt": "2026-10-29T03:26:53.743Z",
+    "error": null
+  },
+  {
+    "id": "cbf9a037-e982-42f8-9d7d-8d96be97e92f",
+    "applicationId": "camden-2026-3166-P",
+    "descriptionHash": "068df77520593ce4e5c503f2926a8fd43d6eb1d83f51da274d2275e67c35b7a1",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00357,
+    "estimatedCostUsd": 0.000301,
+    "createdAt": "2026-10-29T03:26:46.622Z",
+    "error": null
+  },
+  {
+    "id": "7ab26985-3f87-48ed-8c8b-3b7dcf738848",
+    "applicationId": "camden-2026-3177-P",
+    "descriptionHash": "ba09efb6720058005d25367328b18a885725e2471fa961e6434b3f24da7cc0bd",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "accommodating an apart-hotel (Class C1), 2 x residential units (Class C3)",
+        "value": 2,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003644,
+    "estimatedCostUsd": 0.000376,
+    "createdAt": "2026-10-29T03:26:52.722Z",
+    "error": null
+  },
+  {
+    "id": "19fbb04e-0857-4f32-a0fa-986245c9237b",
+    "applicationId": "camden-2026-3264-P",
+    "descriptionHash": "045a81c838d06f7fd239ddd5036fe325cb40a2ad7eb5324949ab9a96a42eb9ee",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003632,
+    "estimatedCostUsd": 0.000311,
+    "createdAt": "2026-10-29T03:26:46.979Z",
+    "error": null
+  },
+  {
+    "id": "a90c32e3-52b8-4ad2-a7d3-ec35e6e090d1",
+    "applicationId": "camden-2026-3282-P",
+    "descriptionHash": "2533491c65b66415fb59def80c0a41c06162a5ddc168c66515fdcb8181e84dd6",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003605,
+    "estimatedCostUsd": 0.000308,
+    "createdAt": "2026-10-29T03:26:52.138Z",
+    "error": null
+  },
+  {
+    "id": "9056a8f1-995d-47e4-82f0-01d35b995dd0",
+    "applicationId": "camden-2026-3300-P",
+    "descriptionHash": "f54c705cc98aec4bff64a308c7e204936b08f67258c20739549c854b0c540d92",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00369,
+    "estimatedCostUsd": 0.000323,
+    "createdAt": "2026-10-29T03:26:45.396Z",
+    "error": null
+  },
+  {
+    "id": "1f5ffb65-88b9-4c75-81a5-94cc05dd64e2",
+    "applicationId": "camden-2026-3308-P",
+    "descriptionHash": "a033be77b9c4a63819ece40b96d4fa07dbf3449d8d3f9a27912e04123d0948cf",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003608,
+    "estimatedCostUsd": 0.000306,
+    "createdAt": "2026-10-29T03:26:51.898Z",
+    "error": null
+  },
+  {
+    "id": "c1f46d25-4749-43ab-ac78-633610031d84",
+    "applicationId": "camden-2026-3340-P",
+    "descriptionHash": "51e8ef9e173a85a3b420f3e251535c707e2a62d11377a6692505125cb1bca842",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00358,
+    "estimatedCostUsd": 0.000302,
+    "createdAt": "2026-10-29T03:26:51.119Z",
+    "error": null
+  },
+  {
+    "id": "a3c31cde-3c89-4fcc-bfd9-5664965d4a76",
+    "applicationId": "camden-2026-3361-P",
+    "descriptionHash": "52e6cfa39d74ed3a4452f4e00eaa2c3af9df871512a474fd7e9254d6d7d00fcb",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide a new one-bedroom flat (Class C3)",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003636,
+    "estimatedCostUsd": 0.000356,
+    "createdAt": "2026-10-29T03:31:05.479Z",
+    "error": null
+  },
+  {
+    "id": "e8817dbb-937e-4b61-9f88-0db2d4f0e396",
+    "applicationId": "camden-2026-3367-P",
+    "descriptionHash": "dd017b8c790334e5a91b00890622535b0414cd7764aa41362008e5dae5236be8",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "conversion of eight existing flats to provide five self-contained flats",
+        "value": 5,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003712,
+    "estimatedCostUsd": 0.000364,
+    "createdAt": "2026-10-29T03:26:50.053Z",
+    "error": null
+  },
+  {
+    "id": "e56c273f-75a5-4547-a7ee-ddcac0064c12",
+    "applicationId": "camden-2026-3371-P",
+    "descriptionHash": "f9f64af1a5c5ff6e1e639431e7ab12ef3e349ba2b1f2c853ae8617a88305a91d",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide a new studio flat (Use class C3)",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003618,
+    "estimatedCostUsd": 0.000351,
+    "createdAt": "2026-10-29T03:31:07.034Z",
+    "error": null
+  },
+  {
+    "id": "5170b570-b526-4819-85ca-10ed2e65a7e8",
+    "applicationId": "camden-2026-3394-P",
+    "descriptionHash": "23109a927436c7600a6569d9669a6bbfc4babf9dc70634a05d2536f2f16333b0",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003623,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:26:50.979Z",
+    "error": null
+  },
+  {
+    "id": "d5a7f20d-6fb9-4b08-bdc5-169742c3237b",
+    "applicationId": "camden-2026-3395-P",
+    "descriptionHash": "eabe2a7c624846bb41f7d8d4b3db6e9fec60ab054bf3a9537bcae080a4408943",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003667,
+    "estimatedCostUsd": 0.000322,
+    "createdAt": "2026-10-29T03:26:51.077Z",
+    "error": null
+  },
+  {
+    "id": "33a3dd93-47c3-463f-9493-2f39d9311757",
+    "applicationId": "camden-2026-3423-P",
+    "descriptionHash": "fa72cd8b65d9c844e7e109874b3581a6999c677b0e23fe6654d0f006317e4b61",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00368,
+    "estimatedCostUsd": 0.00032,
+    "createdAt": "2026-10-29T03:26:49.969Z",
+    "error": null
+  },
+  {
+    "id": "eec081b2-5f66-4562-8fd7-20ca45581197",
+    "applicationId": "camden-2026-3433-P",
+    "descriptionHash": "98db7f0e315bddb35908e1dcc02e88fc4a546727ad4b58a40e78b9bf1f5bd978",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003695,
+    "estimatedCostUsd": 0.000326,
+    "createdAt": "2026-10-29T03:26:47.013Z",
+    "error": null
+  },
+  {
+    "id": "d1ecebf8-f2fe-459e-a844-07d2b6535701",
+    "applicationId": "camden-2026-3483-P",
+    "descriptionHash": "8e920a0b5207d3722a3af08693881148c3a74c407935e22421f1565e2eeab6b7",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.004174,
+    "estimatedCostUsd": 0.000432,
+    "createdAt": "2026-10-29T03:26:48.886Z",
+    "error": null
+  },
+  {
+    "id": "0687e863-e368-4687-b801-b76e6b486b76",
+    "applicationId": "camden-2026-3594-P",
+    "descriptionHash": "7e99779d8b2f591aeeb539315a64f65b032cfe98e8e6d269037bbbb2a13273be",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00362,
+    "estimatedCostUsd": 0.000308,
+    "createdAt": "2026-10-29T03:26:41.486Z",
+    "error": null
+  },
+  {
+    "id": "8d475cb4-ee7f-47a9-a2ff-939181ee5f2c",
+    "applicationId": "camden-2026-3627-P",
+    "descriptionHash": "52348da1427c1f04bb3fb5aaea87888bbf935c8158569acb1b2a971eb6663d54",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003712,
+    "estimatedCostUsd": 0.000328,
+    "createdAt": "2026-10-29T03:26:44.733Z",
+    "error": null
+  },
+  {
+    "id": "d293dff1-e7f3-4f90-a058-4d2951f82824",
+    "applicationId": "camden-2026-3635-P",
+    "descriptionHash": "f7e0649ee32a861127b7f19000165fe7e9610e975c858809bac51203e760bf8a",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003665,
+    "estimatedCostUsd": 0.000321,
+    "createdAt": "2026-10-29T03:26:46.304Z",
+    "error": null
+  },
+  {
+    "id": "7163bcdc-39bc-448f-a152-aa16b88f1c57",
+    "applicationId": "camden-2026-3650-P",
+    "descriptionHash": "cb0db7b6a955204dde57ce73ae1c890596a5c0af85219326f6ed0b03647de730",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00373,
+    "estimatedCostUsd": 0.000327,
+    "createdAt": "2026-10-29T03:26:47.965Z",
+    "error": null
+  },
+  {
+    "id": "b4b90d4f-bbc8-4736-af64-a2f9e910ad5f",
+    "applicationId": "camden-2026-3743-P",
+    "descriptionHash": "cbec02886475403d245fd8d0fa7d388d5c60afc3bb2ba153930a74045e80dcea",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Change of use of the second floor from office use (Class E) to a single self-contained flat (Class C3)",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.0036,
+    "estimatedCostUsd": 0.00037,
+    "createdAt": "2026-10-29T03:26:33.863Z",
+    "error": null
+  },
+  {
+    "id": "b74f5624-9b77-4c69-aafa-d097fe7d10e2",
+    "applicationId": "camden-2026-3809-P",
+    "descriptionHash": "302f5de510ef97bb41cdb5ed8c1185e12961b41157a52e2e91312b67f68391f7",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003778,
+    "estimatedCostUsd": 0.000339,
+    "createdAt": "2026-10-29T03:26:45.931Z",
+    "error": null
+  },
+  {
+    "id": "9fcf4508-30f8-4eb8-aece-4febeef1e8cf",
+    "applicationId": "camden-2026-3886-P",
+    "descriptionHash": "667ef9d2bb930544383dbaea061000500470726ca13baec96ebb38ba8115a3e3",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003651,
+    "estimatedCostUsd": 0.000319,
+    "createdAt": "2026-10-29T03:26:45.387Z",
+    "error": null
+  },
+  {
+    "id": "19e24738-689f-43af-bcd9-e64d8f1eb6ff",
+    "applicationId": "camden-2026-3919-P",
+    "descriptionHash": "031a5e304a6f838576cb15aac28d02add0690599d7cd90be2d19177f6e2fe9c2",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003604,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:26:44.461Z",
+    "error": null
+  },
+  {
+    "id": "9a56cec4-617d-4418-ab86-f6c00c9d527f",
+    "applicationId": "camden-2026-3969-P",
+    "descriptionHash": "d05fe1c1ff74666f8d7e8eb28bc422878bb91229a7f1c7f5b056b6386a6a3483",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003592,
+    "estimatedCostUsd": 0.000306,
+    "createdAt": "2026-10-29T03:26:44.601Z",
+    "error": null
+  },
+  {
+    "id": "7aec4da7-8c18-4886-aa80-a62d99dd0e37",
+    "applicationId": "camden-2026-4015-P",
+    "descriptionHash": "cf76b165d8f6718fd2dd437008a1c604dc9b6b5ce3a5c3d706456dad2c084e1c",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Change of use from offices (Use Class Egi) to a single dwelling house (Use Class C3)",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003593,
+    "estimatedCostUsd": 0.000364,
+    "createdAt": "2026-10-29T03:26:43.678Z",
+    "error": null
+  },
+  {
+    "id": "dbaf5e3e-9ed9-49fe-bb20-cda377c48136",
+    "applicationId": "camden-2026-4029-P",
+    "descriptionHash": "edb295a16aae8a40116d41487f44a34317f3038bb487175930de77c101be6ab7",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide 6 x flats",
+        "value": 6,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003712,
+    "estimatedCostUsd": 0.00036,
+    "createdAt": "2026-10-29T03:26:43.333Z",
+    "error": null
+  },
+  {
+    "id": "e044cab9-0402-4a6b-88b8-e4262166b288",
+    "applicationId": "camden-2026-4038-P",
+    "descriptionHash": "db2ea30b2b59cc53150f9e96dcf798872bc41560a9c7a4b4d2c56fa30effc4de",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "to provide 1 no. residential dwelling",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00364,
+    "estimatedCostUsd": 0.00035,
+    "createdAt": "2026-10-29T03:26:38.080Z",
+    "error": null
+  },
+  {
+    "id": "27e4dcbc-3691-4d45-a37d-3caead0b559a",
+    "applicationId": "camden-2026-4095-P",
+    "descriptionHash": "754f76870f42cb76b63bf3edf4b6cdc579fd0c7abbf2648d820ea0afbc06dbb0",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003579,
+    "estimatedCostUsd": 0.000301,
+    "createdAt": "2026-10-29T03:26:40.629Z",
+    "error": null
+  },
+  {
+    "id": "54b3130d-10ca-40ee-82e9-d044854d14ae",
+    "applicationId": "camden-2026-4100-P",
+    "descriptionHash": "22b4e2e694a559b6a8ccfd7ac09c26f35a2a2467dd71ea71a4eef6890e246590",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Conversion of the existing six-bedroom dwelling house into two self-contained flats",
+        "value": 2,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003643,
+    "estimatedCostUsd": 0.000355,
+    "createdAt": "2026-10-29T03:26:42.643Z",
+    "error": null
+  },
+  {
+    "id": "a643763e-e949-421d-bae0-84046775b611",
+    "applicationId": "camden-2026-4167-P",
+    "descriptionHash": "6aed34a667c8bdc2dc645c539bce4f78f0f782368a260471ff6abee3b285f740",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003731,
+    "estimatedCostUsd": 0.000331,
+    "createdAt": "2026-10-29T03:26:41.989Z",
+    "error": null
+  },
+  {
+    "id": "48ac75d4-fcc7-460b-a9a4-7086ec91cacf",
+    "applicationId": "camden-2026-4168-P",
+    "descriptionHash": "a5ab08a4badd6543a9dbae62ed4ddd1db08abfc3b3d9cbab0ad9045b08d9f006",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003598,
+    "estimatedCostUsd": 0.000305,
+    "createdAt": "2026-10-29T03:26:42.382Z",
+    "error": null
+  },
+  {
+    "id": "4f14aaa6-0910-4610-9b81-95e4196fc9fe",
+    "applicationId": "camden-2026-4237-P",
+    "descriptionHash": "49ba3fd9e146d6283f9e700074a4430eae19e31897f9ca45efc16e67bd6b65c3",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Change of use of the ground floor commercial unit (Class E) to 1 x self-contained residential dwelling (Class C3)",
+        "value": 1,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003634,
+    "estimatedCostUsd": 0.000376,
+    "createdAt": "2026-10-29T03:26:33.881Z",
+    "error": null
+  },
+  {
+    "id": "30966ed3-07ad-44d5-9607-31ab7dada790",
+    "applicationId": "camden-2026-4253-P",
+    "descriptionHash": "37a5e5aff0c8805726ee2e2919f425547e3f69e1c8df310eae7e3136465359bd",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003632,
+    "estimatedCostUsd": 0.000313,
+    "createdAt": "2026-10-29T03:26:41.906Z",
+    "error": null
+  },
+  {
+    "id": "4ac3f391-ec00-4fe7-b58f-ce90315df206",
+    "applicationId": "camden-2026-4297-P",
+    "descriptionHash": "f4bbe3a8664a2a96febb4b1658eb77c647f49c514bfb6bab22f20de22e09bdf5",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003587,
+    "estimatedCostUsd": 0.000303,
+    "createdAt": "2026-10-29T03:26:40.923Z",
+    "error": null
+  },
+  {
+    "id": "e6738bcc-7005-4de6-81aa-29c55a7b8468",
+    "applicationId": "camden-2026-4399-P",
+    "descriptionHash": "8eeac73d087505f88b407855bea0a1942c9d4b06d6a074bdf570ed97bdda42f2",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003702,
+    "estimatedCostUsd": 0.000322,
+    "createdAt": "2026-10-29T03:26:39.945Z",
+    "error": null
+  },
+  {
+    "id": "008c987a-46d3-48b5-a4bc-16002720afe7",
+    "applicationId": "camden-2026-4412-P",
+    "descriptionHash": "ccfbff0bcbbd9125e461de40f924f113ed3ffc199492de6da60d60ee48dfb9b3",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00375,
+    "estimatedCostUsd": 0.000331,
+    "createdAt": "2026-10-29T03:26:36.364Z",
+    "error": null
+  },
+  {
+    "id": "a9e5bdec-a08b-4232-9587-6ec99dc32fc6",
+    "applicationId": "camden-2026-4428-P",
+    "descriptionHash": "531ba0966bd12d2bbe66c465957bf72805df6e8a827f394a3edbddff06c3613f",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Extension of lower ground floor to create 4no. flats",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00358,
+    "estimatedCostUsd": 0.000344,
+    "createdAt": "2026-10-29T03:26:33.911Z",
+    "error": null
+  },
+  {
+    "id": "ac42c0e2-e9a4-4ae7-a782-2759006dd12e",
+    "applicationId": "camden-2026-4492-P",
+    "descriptionHash": "92d7cec795d50ebda073a2bff30014b848612534441c900b8747aed77a6bf617",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.00365,
+    "estimatedCostUsd": 0.000315,
+    "createdAt": "2026-10-29T03:26:39.226Z",
+    "error": null
+  },
+  {
+    "id": "a4806488-31c6-481d-a905-157f1d05b11f",
+    "applicationId": "camden-2026-4543-P",
+    "descriptionHash": "096551ebc799c9cb5ee9a4cbc50b3b4b99f1dde65f44918533ba92af0bddd22f",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003628,
+    "estimatedCostUsd": 0.000311,
+    "createdAt": "2026-10-29T03:26:38.865Z",
+    "error": null
+  },
+  {
+    "id": "36e0c3e0-1eb7-4d78-80e3-fcf45b6f2758",
+    "applicationId": "camden-2026-4546-P",
+    "descriptionHash": "494c9077e827487cc1b7619fcc6ce52d8d4328d9ba9f2edfcd2b8552b33dea14",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003654,
+    "estimatedCostUsd": 0.000314,
+    "createdAt": "2026-10-29T03:26:39.857Z",
+    "error": null
+  },
+  {
+    "id": "e4497323-ab68-4ff2-82df-7a1eab4249d4",
+    "applicationId": "camden-2026-4629-P",
+    "descriptionHash": "4bdd743a8e8762fb397efe6f579c996edf841beea9c068abeda0c0919df044bf",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003601,
+    "estimatedCostUsd": 0.000307,
+    "createdAt": "2026-10-29T03:26:38.634Z",
+    "error": null
+  },
+  {
+    "id": "4bd400b1-468a-4c44-969b-76b9213fe9cb",
+    "applicationId": "camden-2026-4630-P",
+    "descriptionHash": "ed682131bfbaeb615de9ba5c829eca99f1e09ba9e31230020cb43215a4dc8d04",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "Conversion of the existing building to form 4 self-contained flats",
+        "value": 4,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003662,
+    "estimatedCostUsd": 0.000359,
+    "createdAt": "2026-10-29T03:26:37.621Z",
+    "error": null
+  },
+  {
+    "id": "e4119321-5c86-459b-9f2d-0948e4ba72b0",
+    "applicationId": "camden-2026-4653-P",
+    "descriptionHash": "8eae2b1ca6b05f0a8626c940ef8dcda61fdc584d947dbbb5bbeddd4c5aeaa5fc",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003613,
+    "estimatedCostUsd": 0.000307,
+    "createdAt": "2026-10-29T03:26:38.476Z",
+    "error": null
+  },
+  {
+    "id": "1cd70314-0163-4163-b024-a06f5774bed8",
+    "applicationId": "camden-2026-4702-P",
+    "descriptionHash": "6c524196841b8c925b36d6af996ffc32d6c68d6b1cbc9b3edf467b5da7916228",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003596,
+    "estimatedCostUsd": 0.000304,
+    "createdAt": "2026-10-29T03:26:36.736Z",
+    "error": null
+  },
+  {
+    "id": "312061f0-9357-4cd5-aedf-db5f30bbe707",
+    "applicationId": "camden-2026-4711-P",
+    "descriptionHash": "f338b83fbfa65ab36157a874fff293b1ea64198c4358d86a9f694be741ff69c2",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003636,
+    "estimatedCostUsd": 0.000312,
+    "createdAt": "2026-10-29T03:26:37.131Z",
+    "error": null
+  },
+  {
+    "id": "c4ffc141-1288-4f35-a57d-ca66ef226f75",
+    "applicationId": "camden-2026-4736-P",
+    "descriptionHash": "08834dfa51e73fca5d07c9c52220d9d0f940ff84861db8b4bc06ef219ad9ed30",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": {
+        "page": null,
+        "quote": "provision of 6no. self-contained residential units",
+        "value": 6,
+        "confidence": "high"
+      },
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003656,
+    "estimatedCostUsd": 0.000358,
+    "createdAt": "2026-10-29T03:26:37.481Z",
+    "error": null
+  },
+  {
+    "id": "aabf305c-09a7-4f6d-8904-1f2779e4bd4d",
+    "applicationId": "camden-26-00239-HAPP",
+    "descriptionHash": "619f61f16741a07099f9cbc7e10a14ed411bee0dd93e177b22fedb223178d0a5",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "promptVersion": "housing-description-v1",
+    "status": "complete",
+    "result": {
+      "approvedUnits": null,
+      "proposedUnits": null,
+      "affordableUnits": null,
+      "netAdditionalUnits": null
+    },
+    "reservedCostUsd": 0.003584,
+    "estimatedCostUsd": 0.000302,
+    "createdAt": "2026-10-29T03:27:02.943Z",
+    "error": null
+  }
+]

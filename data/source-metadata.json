@@ -1,0 +1,174 @@
+{
+  "id": "2eiu-s2cw",
+  "name": "Planning Applications",
+  "description": "This dataset contains planning applications in the London Borough of Camden dating back to 01/01/2010. Planning application extents are captured against the OS MasterMap product, due to licensing restrictions with this product, this dataset is represented as point geometry, located to the nearest postcode (derived from the OS Code-Point Open product). Attribution includes application number, development address, development description, registered date, decision date and case officer.",
+  "licenseId": "UK_OGLV3.0",
+  "attribution": "London Borough of Camden",
+  "attributionLink": "http://www.camden.gov.uk",
+  "rowsUpdatedAt": 1793241236,
+  "customFields": {
+    "Point of Contact": {
+      "Address": "The Crowndale Centre, 218 Eversholt Street",
+      "Telephone": "020 7974 4444",
+      "Role Name": "Open Data Administrator",
+      "Organisation Name": "London Borough of Camden",
+      "City/Town": "London",
+      "Postcode": "NW1 1BD",
+      "Directorate": "Culture and Environment"
+    },
+    "OS Licence Detail": {
+      "Licence Type": "OS OpenData",
+      "Licence Information": "Data derived from OS products which is free to use under the Open Government Licence. The following statement MUST be included when using this data: Contains OS data \u00a9 Crown copyright and database right [year]",
+      "Licence URL": "http://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html"
+    },
+    "Publication": {
+      "Dataset Language": "English",
+      "Spatial Reference System": "EPSG:27700",
+      "Frequency of Update": "Daily"
+    }
+  },
+  "columns": [
+    {
+      "fieldName": "pk",
+      "dataTypeName": "number"
+    },
+    {
+      "fieldName": "application_number",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "development_address",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "development_description",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "decision_type",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "valid_from_date",
+      "dataTypeName": "calendar_date"
+    },
+    {
+      "fieldName": "registered_date",
+      "dataTypeName": "calendar_date"
+    },
+    {
+      "fieldName": "registered_in_last_7_working_days",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "registered_in_last_28_working_days",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "earliest_decision_date",
+      "dataTypeName": "calendar_date"
+    },
+    {
+      "fieldName": "decision_date",
+      "dataTypeName": "calendar_date"
+    },
+    {
+      "fieldName": "decison_level",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "system_status",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "system_status_change_date",
+      "dataTypeName": "calendar_date"
+    },
+    {
+      "fieldName": "applicant_name",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "ward",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "conservation_areas",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "neighbourhood_areas",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "case_officer",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "case_officer_team",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "responsibility_type",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "comment",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "full_application",
+      "dataTypeName": "url"
+    },
+    {
+      "fieldName": "application_type",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "easting",
+      "dataTypeName": "number"
+    },
+    {
+      "fieldName": "northing",
+      "dataTypeName": "number"
+    },
+    {
+      "fieldName": "longitude",
+      "dataTypeName": "number"
+    },
+    {
+      "fieldName": "latitude",
+      "dataTypeName": "number"
+    },
+    {
+      "fieldName": "spatial_accuracy",
+      "dataTypeName": "text"
+    },
+    {
+      "fieldName": "last_uploaded",
+      "dataTypeName": "calendar_date"
+    },
+    {
+      "fieldName": "location",
+      "dataTypeName": "point"
+    },
+    {
+      "fieldName": "socrata_id",
+      "dataTypeName": "number"
+    },
+    {
+      "fieldName": "organisation_uri",
+      "dataTypeName": "url"
+    },
+    {
+      "fieldName": ":@computed_region_hxwp_gyfc",
+      "dataTypeName": "number"
+    },
+    {
+      "fieldName": ":@computed_region_6i9a_26nj",
+      "dataTypeName": "number"
+    }
+  ],
+  "verifiedAt": "2026-10-29",
+  "metadataUrl": "https://opendata.camden.gov.uk/api/views/2eiu-s2cw.json"
+}

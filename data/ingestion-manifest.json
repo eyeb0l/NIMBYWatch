@@ -1,0 +1,17 @@
+{
+  "fetchedAt": "2026-10-29T02:55:27.068Z",
+  "sourceUrl": "https://opendata.camden.gov.uk/resource/2eiu-s2cw.json?%24select=pk%2Capplication_number%2Cdevelopment_address%2Cdevelopment_description%2Cdecision_type%2Cregistered_date%2Cdecision_date%2Csystem_status%2Cward%2Cfull_application%2Capplication_type%2Clongitude%2Clatitude%2Cspatial_accuracy%2Clast_uploaded&%24where=%28application_type+%3D+%27Full+Planning+Permission%27+OR+application_type+%3D+%27Householder+Application%27%29+AND+%28upper%28development_description%29+like+%27%25RESIDENTIAL%25%27+OR+upper%28development_description%29+like+%27%25DWELLING%25%27+OR+upper%28development_description%29+like+%27%25FLAT%25%27+OR+upper%28development_description%29+like+%27%25CLASS+C3%25%27%29&%24order=registered_date+DESC%2C+application_number+ASC&%24limit=300&%24offset=0",
+  "datasetUrl": "https://opendata.camden.gov.uk/Environment/Planning-Applications/2eiu-s2cw",
+  "count": 176,
+  "sha256": "009749fd5e818617c74a6c0b535d74f650778f8b24c4bbc95093f5cd274b964a",
+  "licence": "Open Government Licence v3.0",
+  "attribution": "London Borough of Camden; Contains OS data © Crown copyright and database right 2026",
+  "selection": "Latest full planning / householder applications with residential description terms, excluding flat-roof-only matches. Bounded convenience sample, not all Camden applications.",
+  "fieldsExcluded": [
+    "applicant_name",
+    "case_officer",
+    "comment",
+    "contact details"
+  ],
+  "housingCounts": "Unknown: source has no explicit unit columns. No numeric inference from descriptions."
+}

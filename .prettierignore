@@ -1,0 +1,10 @@
+node_modules
+.next
+.data
+.env*
+data
+public/vendor
+artifacts
+test-results
+package-lock.json
+migrations

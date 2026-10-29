@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-10-29",
+  "purpose": "Discovery metadata only. These are not verified document contents, authorised inputs, or analysis results.",
+  "processingStatus": "awaiting_access_and_reuse_permission",
+  "policies": {
+    "copyrightUrl": "https://www.camden.gov.uk/en/data-protection-privacy-and-cookies",
+    "robotsUrl": "https://camdocs.camden.gov.uk/robots.txt",
+    "robotsHttpStatus": 200,
+    "robotsText": "User-agent: *\r\nDisallow: /",
+    "reusePermission": "unverified"
+  },
+  "documents": [
+    {
+      "applicationId": "camden-2025-5723-P",
+      "reference": "2025/5723/P",
+      "indexedTitle": "Delegated Officer Report",
+      "candidateDocumentType": "officer_report",
+      "sourceUrl": "https://camdocs.camden.gov.uk/CMWebDrawer/Record/11614339/file/document?inline",
+      "discoveryUrl": "https://www.planningatlas.co.uk/atlas/camden/applications/2025-5723-P",
+      "identityVerifiedAgainstDocument": false,
+      "headHttpStatus": 404,
+      "downloaded": false
+    },
+    {
+      "applicationId": "camden-2025-5723-P",
+      "reference": "2025/5723/P",
+      "indexedTitle": "Decision Notice",
+      "candidateDocumentType": "decision_notice",
+      "sourceUrl": "https://camdocs.camden.gov.uk/CMWebDrawer/Record/11614338/file/document?inline",
+      "discoveryUrl": "https://www.planningatlas.co.uk/atlas/camden/applications/2025-5723-P",
+      "identityVerifiedAgainstDocument": false,
+      "headHttpStatus": 404,
+      "downloaded": false
+    },
+    {
+      "applicationId": "camden-2026-0593-P",
+      "reference": "2026/0593/P",
+      "indexedTitle": "Decision Notice",
+      "candidateDocumentType": "decision_notice",
+      "sourceUrl": "https://camdocs.camden.gov.uk/CMWebDrawer/Record/11678179/file/document?inline",
+      "discoveryUrl": "https://www.planningatlas.co.uk/atlas/camden/applications/2026-0593-P",
+      "identityVerifiedAgainstDocument": false,
+      "headHttpStatus": null,
+      "downloaded": false,
+      "caution": "Application source status is Appeal Decided. This notice alone cannot establish the subsequent appeal outcome."
+    },
+    {
+      "applicationId": "camden-2026-0593-P",
+      "reference": "2026/0593/P",
+      "indexedTitle": "2026-0593-P 166 Grafton Road - Mansard Roof extension -refus",
+      "candidateDocumentType": null,
+      "sourceUrl": "https://camdocs.camden.gov.uk/CMWebDrawer/Record/11678181/file/document?inline",
+      "discoveryUrl": "https://www.planningatlas.co.uk/atlas/camden/applications/2026-0593-P",
+      "identityVerifiedAgainstDocument": false,
+      "headHttpStatus": null,
+      "downloaded": false,
+      "caution": "Document type cannot be established from its indexed filename."
+    }
+  ]
+}

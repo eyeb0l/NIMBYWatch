@@ -1,0 +1,17 @@
+[Unit]
+Description=NIMBYWatch planning application explorer
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/iris/NIMBYWatch
+Environment=NODE_ENV=production
+Environment=PATH=/home/iris/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/home/iris/.local/bin/node /home/iris/NIMBYWatch/node_modules/next/dist/bin/next start --hostname 127.0.0.1 --port 4300
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+UMask=0077
+
+[Install]
+WantedBy=default.target
